@@ -24,5 +24,5 @@
 ![Изображение первого экрана страницы](./img/page-preview_1920px_first-screen.png)
 
 #### Проект можно посмотреть
-- [можно открыть на gh-pages]()
+- [можно открыть на gh-pages](https://marin-mar.github.io/plants-landing/)
 - если скачать репозиторий к себе: просто открыть в браузере файл `index.html`
